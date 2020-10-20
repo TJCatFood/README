@@ -62,6 +62,7 @@
     **注意！再读一次上面那句**
 
     ```
+    git checkout main
     git branch -d user_login
     git push origin -d user_login
     ```
